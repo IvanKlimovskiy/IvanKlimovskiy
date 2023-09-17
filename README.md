@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! My name is Ivan, and I am a beginner frontend developer. 👋
 
 <!--
 **IvanKlimovskiy/IvanKlimovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
